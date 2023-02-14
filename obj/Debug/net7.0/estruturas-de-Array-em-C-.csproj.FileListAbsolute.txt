@@ -1,0 +1,15 @@
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\bin\Debug\net7.0\estruturas-de-Array-em-C-.exe
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\bin\Debug\net7.0\estruturas-de-Array-em-C-.deps.json
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\bin\Debug\net7.0\estruturas-de-Array-em-C-.runtimeconfig.json
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\bin\Debug\net7.0\estruturas-de-Array-em-C-.dll
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\bin\Debug\net7.0\estruturas-de-Array-em-C-.pdb
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.csproj.AssemblyReference.cache
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.AssemblyInfoInputs.cache
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.AssemblyInfo.cs
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.csproj.CoreCompileInputs.cache
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.dll
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\refint\estruturas-de-Array-em-C-.dll
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.pdb
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\estruturas-de-Array-em-C-.genruntimeconfig.cache
+C:\Users\vitor.ramos\Desktop\Prova c# 13-02\estruturas-de-Array-em-C-\obj\Debug\net7.0\ref\estruturas-de-Array-em-C-.dll
