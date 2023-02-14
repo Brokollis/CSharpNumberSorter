@@ -2,7 +2,7 @@
 
 O Projeto tem como objetivo ler um arquivo de texto, que por sua vez possui numeros que podem estar ou não ordenados. Após a leitura do arquivo de texto, o programa obtem os numeros e os ordena através de um vetor que imprime os valores na tela.
 
-### Premissa
+### ✔️ Premissa
 
 Comentários de Código demonstrando a estrutura
 Indentação de Código
