@@ -19,20 +19,23 @@ namespace getOrderedList
             // Ordenação dos numeros dentro do vetor:
 
             int auxNumber, minNumber;
-            for (int i = 0; i < numbers.Length - 1; i++)
+            for (int number = 0; number < numbers.Length - 1; number++)
             {
-                minNumber = i;
-                for (int j = i + 1; j < numbers.Length; j++)
+                minNumber = number;
+                for (int iterator = number + 1; iterator < numbers.Length; iterator++)
                 {
-                    if (numbers[j] < numbers[minNumber])
+                    Console.WriteLine("Comparando " + numbers[iterator] + " com " + numbers[minNumber]);
+                    if (numbers[iterator] < numbers[minNumber])
                     {
-                        minNumber = j;
+                        Console.WriteLine(numbers[iterator] + " é menor do que " + numbers[minNumber] + ", trocando");
+                        minNumber = iterator;
                     }
                 }
-                if (minNumber != i)
+                if (minNumber != number)
                 {
-                    auxNumber = numbers[i];
-                    numbers[i] = numbers[minNumber];
+                    Console.WriteLine("Trocando " + numbers[number] + " com " + numbers[minNumber]);
+                    auxNumber = numbers[number];
+                    numbers[number] = numbers[minNumber];
                     numbers[minNumber] = auxNumber;
                 }
             }
