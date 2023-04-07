@@ -26,3 +26,8 @@
   <li>Linhaguem de programação C#</li>
   <li>Arquivo de texto</li>
 </ul>
+<h3>✒️ Autores:</h3>
+
+<ul>
+	<li>Vitor Aguiar - <a href="www.linkedin.com/in/vitor-aguiar-ab3937192/">LinkedIn</a></li>
+</ul>
